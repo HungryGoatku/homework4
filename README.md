@@ -24,3 +24,10 @@ By the way, I'm running this on Windows10 command line prompt
 - Metamask: Cryptowallet for blockchain apps; a google chrome ONLY extension
 
 [Here's link for Metamask](https://metamask.io/)
+
+# Now that we have all of that situated, we can begin 
+
+- Make a nice directory for smart contract that you know you'll remember, very imporant
+
+- Now what ever directory you're in, you'll want to "Truffle init" 
+This will create the migrations, test, and truffle-config file
