@@ -17,3 +17,6 @@ By the way, I'm running this on Windows10 command line prompt
 
 - Ganache: Nice GUI for your Ethereum blockchain festivities; Link will lead you to download page
 [Here's link for Ganache](https://www.trufflesuite.com/ganache)
+
+-Git: nice distritbuted version-control system; Link will lead you to download page whether Windows, MAC, Linux
+[Here's link for Git](https://git-scm.com/downloads)
