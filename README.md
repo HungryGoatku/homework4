@@ -63,4 +63,3 @@ Have Courses.sol within 'contracts' folder in order to compile
 
 # What you should see if successful up to this point
 
-
