@@ -27,7 +27,7 @@ By the way, I'm running this on Windows10 command line prompt
 
 # Now that we have all of that situated, we can begin 
 
-- Make a nice directory for smart contract that you know you'll remember, very imporant
+- Make a nice directory for smart contract that you know you'll remember, very important
 
 - Now what ever directory you're in, you'll want to "Truffle init" 
 
