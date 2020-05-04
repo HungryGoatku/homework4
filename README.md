@@ -1,4 +1,4 @@
-# homework4
+# homework4 || I.A.
 Made an old solidity contract compatible with version ^0.5.1 with Remix online IDE
 
 ## LINK for reference on old solidity contract
