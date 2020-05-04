@@ -70,3 +70,17 @@ Have Courses.sol within 'contracts' folder in order to compile
 - gas used, gas price
 - total cost to deploy SmartContract
 - Summary with total deployments and final cost
+
+# NEXT STEP
+- Now you want to "Truffle Development" your way to actually start running the contract
+- you should see "truffle(develop)>"
+
+# Testing out the functions
+- want to create a new variable as so: var Orange = await Courses.deploy
+- you'll get an 'undefined' which is fine
+
+# Functions
+- Orange.setInstructor("address", 30, "Johnny", "Appleseed");
+- Orange.getInstructor("address");
+- Orange.getInstructors();
+- Orange.countInstructors();
