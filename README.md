@@ -43,10 +43,11 @@ either 7545 for using Ganache GUI or 8585 if using ganache client through comman
 # Next, new Migration file to deploy SmartContract
 - Within 'migrations' folder, copy the 1st one and open it within any text editor, ideally Notepad++
 - Once you opened it, create new file and copy content into new file for new .js file
-- This should be new file: 
+- This should be new .js file : 
 
 var Courses = artifacts.require("./Courses.sol");
 
 module.exports = function(deployer) {
   deployer.deploy(Courses);
+
 };
