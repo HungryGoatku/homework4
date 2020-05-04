@@ -14,3 +14,6 @@ By the way, I'm running this on Windows10 command line prompt
 
 - Truffle: this popular development framework will make it a breeze; Link will have command to install 
 [Here's link for Truffle](https://www.trufflesuite.com/truffle)
+
+- Ganache: Nice GUI for your Ethereum blockchain festivities; Link will lead you to download page
+[Here's link for Ganache](https://www.trufflesuite.com/ganache)
