@@ -63,4 +63,4 @@ Have Courses.sol within 'contracts' folder in order to compile
 
 # What you should see if successful up to this point
 
-![](Images/Blockchain README image.PNG)
+![](homework4/HW4/Images/Blockchain README image.PNG)
