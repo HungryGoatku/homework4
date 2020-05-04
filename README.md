@@ -12,7 +12,5 @@ By the way, I'm running this on Windows10 command line prompt
 - Node.js : version 12.16.2 is what I'm running, depending on your machine you can run latest version.
 [Link for Node.js](https://nodejs.org/en/)
 
-- Truffle: this popular development framework will make it a breeze
-
-Link will have command to install 
+- Truffle: this popular development framework will make it a breeze; Link will have command to install 
 [Here's link for Truffle](https://www.trufflesuite.com/truffle)
