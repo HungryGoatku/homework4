@@ -35,7 +35,18 @@ This will create or "unbox" the migrations, contracts, test folders and truffle-
 
 # IMPORTANT for truffle-config.js file
 
-- For lines 45-49, remove the comments as this will active the file
+- For lines 45-49, remove the comments as this will activate the file
 - Line 47: this is the port in which the blockchain will be coming from;
 
 either 7545 for using Ganache GUI or 8585 if using ganache client through command line prompt
+
+# Next, new Migration file to deploy SmartContract
+- Within 'migrations' folder, copy the 1st one and open it within any text editor, ideally Notepad++
+- Once you opened it, create new file and copy content into new file for new .js file
+- This should be new file: 
+
+var Courses = artifacts.require("./Courses.sol");
+
+module.exports = function(deployer) {
+  deployer.deploy(Courses);
+};
