@@ -6,3 +6,4 @@ Made an old solidity contract compatible with version ^0.5.1 with Remix online I
 
 # Requirements to run this smart contract
 There are a few things you'll need to install beforehand.
+
