@@ -62,4 +62,5 @@ Have Courses.sol within 'contracts' folder in order to compile
 - In case something happened, you can do "Truffle migrate --reset" in order to reset terminal you're working in
 
 # What you should see if successful up to this point
-- 
+
+![](Images/Blockchain README image.PNG)
