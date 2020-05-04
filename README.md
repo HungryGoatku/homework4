@@ -30,4 +30,12 @@ By the way, I'm running this on Windows10 command line prompt
 - Make a nice directory for smart contract that you know you'll remember, very imporant
 
 - Now what ever directory you're in, you'll want to "Truffle init" 
-This will create the migrations, test, and truffle-config file
+
+This will create or "unbox" the migrations, contracts, test folders and truffle-config.js file in whichever directory you're in
+
+# IMPORTANT for truffle-config.js file
+
+- For lines 45-49, remove the comments as this will active the file
+- Line 47: this is the port in which the blockchain will be coming from;
+
+either 7545 for using Ganache GUI or 8585 if using ganache client through command line prompt
