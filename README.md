@@ -51,3 +51,11 @@ module.exports = function(deployer) {
   deployer.deploy(Courses);
 
 };
+
+# Remember to have SmartContract within directory
+Have Courses.sol within 'contracts' folder in order to compile
+
+# You are ready to get the show on the road
+- First you want to get into right directory: example mines: C:\Users\isaac\Documents\BlockChain\HW4
+- Once here, you'll want to "Truffle Migrate" in order to get the migrations going onto the blockchain
+- Next, you'll want to "Truffle Compile" in order to compile the contracts so it can interact with the blockchain
